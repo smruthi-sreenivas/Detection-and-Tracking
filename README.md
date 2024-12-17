@@ -1,7 +1,8 @@
 # Object Detection and Tracking
 
 This project demonstrates a method to detect and track a sports ball in a video using YOLOv8 for object detection and KCF (Kernelized Correlation Filters) for object tracking.
-![{D5C71D63-0B71-47FC-9B74-A8B7776C3C21}](https://github.com/user-attachments/assets/fd906a5b-370d-4da1-b27d-60e33e3fe297)
+![{643A1C2B-589A-46B5-852F-D0844101C795}](https://github.com/user-attachments/assets/0f7e5545-5998-4f5e-8a65-9af127788317)
+
 
 
 ## Overview
